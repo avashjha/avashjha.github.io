@@ -1,0 +1,51 @@
+git init
+git config --global user.email 'avashjhaymail@gmail.com'
+git status
+git rm --cached index.html( remove)
+git track
+git add *.html (any html files )
+git add . ( add everything)
+git commit 
+//change something
+git status ( changes not staged)
+git commit 
+click i for insert 
+initial commit
+
+touch .gitignore (put file which you don't want to put)
+
+
+
+
+git branch login (adding loggin .... )
+git commit -m 'another change'
+git checkout login ( now in the login branch from master)
+touch login.html
+git add .
+git commit -m 'login form'
+git checkout master
+(switched to branch master)
+
+
+git merge login ( to merge login and master )
+click i 
+added login
+Esc colon W q enter
+
+
+
+
+for remote
+git remote add ...............
+fit push -u origin master
+
+touch README.md
+git add .
+git push ( to push in remote )
+
+
+
+
+git clone  + link ( to pull every thing from remote)
+git pull ( for any updat )
+
