@@ -24,5 +24,15 @@ document.getElementsByTagName('li')[11].innerHTML='Database System: MySQL, Oracl
 document.getElementsByTagName('h3')[3].innerHTML='<small>E-mail :</small> avashjhaymail@gmail.com';
 document.getElementsByTagName('li')[12].innerHTML='Adequate knowledge on Microsoft Excel, Word, Power Point, Access, Google Spreadsheets, form, awesome table, Cisco Packet Tracer, Wordpress (theme development) and Code Igniter(MVC) framework.';
 document.getElementsByTagName('h3')[9].innerHTML='Experience ';
-document.getElementsByTagName('li')[13].innerHTML='Worked as an IT officer for Central Media Pvt. Ltd, Khichhapokari for 12 months.';
+document.getElementsByTagName('li')[13].innerHTML='IT officer in Central Media Pvt. Ltd. for a year.';
+document.getElementsByTagName('li')[14].innerHTML='Worked as Web developer and designer for Delta 9 Business Group Pvt. Ltd.for a year.';
+document.getElementsByTagName('li')[15].innerHTML='Volunteer for a Raleigh International Nepal for around 12 weeks.';
+document.getElementsByTagName('li')[16].innerHTML='Worked as a Network Engineer for Perfect Active Solutions Pvt. Ltd.';
+document.getElementsByTagName('li')[17].innerHTML='Worked as a Trainee Assistant in Siddhartha Bank Limited.';
+document.getElementsByTagName('li')[18].innerHTML='Travelling enthusiast.';
+document.getElementsByTagName('li')[19].innerHTML='Love playing cricket and football.';
+
+
+
+
 
