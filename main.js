@@ -21,7 +21,7 @@ document.getElementsByTagName('h1')[0].innerHTML='Resume';
 document.getElementsByTagName('li')[14].innerHTML='Cricket, Football and Travelling';
 document.getElementsByTagName('li')[11].innerHTML='Database System: MySQL, Oracle and MongoDB.';
 document.getElementsByTagName('h3')[3].innerHTML='<small>E-mail :</small> avashjhaymail@gmail.com';
-document.getElementsByTagName('li')[12].innerHTML='Adequate knowledge on Microsoft Excel, Word, Power Point, Access, Google Spreadsheets, form, awesome table, Cisco Packet Tracer, Configuring networking equipement like router and switches, Handling Active-Directory and Websites.';
+document.getElementsByTagName('li')[12].innerHTML='Adequate knowledge on Microsoft Excel, Word, Power Point, Access, Google Spreadsheets, Google form, Awesome table, Cisco Packet Tracer, configuring networking equipements like router and switches, handling Active-Directory and Websites.';
 document.getElementsByTagName('h3')[9].innerHTML='Experiences & Hobbies';
 document.getElementsByTagName('li')[13].innerHTML='Excel Programming (Macros and VBA Script) for analyzing reports and sending bulk mail integrated with Outlook.';
 
