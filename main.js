@@ -18,12 +18,11 @@ document.getElementsByTagName('li')[2].innerHTML='Final Year internship on IT Sy
 document.getElementsByTagName('h3')[7].innerHTML='Achievements & Certifications';
 document.getElementsByTagName('h3')[8].innerHTML='Technical Skills';
 document.getElementsByTagName('h1')[0].innerHTML='Resume';
-document.getElementsByTagName('h3')[10].innerHTML='Hobbies';
 document.getElementsByTagName('li')[14].innerHTML='Cricket, Football and Travelling';
 document.getElementsByTagName('li')[11].innerHTML='Database System: MySQL, Oracle and MongoDB.';
 document.getElementsByTagName('h3')[3].innerHTML='<small>E-mail :</small> avashjhaymail@gmail.com';
 document.getElementsByTagName('li')[12].innerHTML='Adequate knowledge on Microsoft Excel, Word, Power Point, Access, Google Spreadsheets, form, awesome table, Cisco Packet Tracer, Wordpress (theme development) and Code Igniter(MVC) framework.';
-document.getElementsByTagName('h3')[9].innerHTML='Experience ';
+document.getElementsByTagName('h3')[9].innerHTML='Experience & Hobbies';
 document.getElementsByTagName('li')[13].innerHTML='IT officer in Central Media Pvt. Ltd. for a year.';
 document.getElementsByTagName('li')[14].innerHTML='Worked as Web developer and designer for Delta 9 Business Group Pvt. Ltd.for a year.';
 document.getElementsByTagName('li')[15].innerHTML='Volunteer for a Raleigh International Nepal for around 12 weeks.';
@@ -31,8 +30,4 @@ document.getElementsByTagName('li')[16].innerHTML='Worked as a Network Engineer 
 document.getElementsByTagName('li')[17].innerHTML='Worked as a Trainee Assistant in Siddhartha Bank Limited.';
 document.getElementsByTagName('li')[18].innerHTML='Travelling enthusiast.';
 document.getElementsByTagName('li')[19].innerHTML='Love playing cricket and football.';
-
-
-
-
 
