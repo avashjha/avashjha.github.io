@@ -1,4 +1,4 @@
-document.getElementsByTagName('li')[0].innerHTML='Networking- IP Broadband Network in <strong>Nepal Telecom.</strong>';
+document.getElementsByTagName('li')[0].innerHTML='Networking- IP Broadband Network in <strong>Nepal Telecom (6 months).</strong>';
 document.getElementsByTagName('li')[3].innerHTML='B.Tech in Information Technology, Manipal University Jaipur, <strong>CGPA-6.90</strong>';
 document.getElementsByTagName('li')[4].innerHTML='10+2 (HSEB), Pentagon International Higher Secondary School, <strong>68%</strong>';
 document.getElementsByTagName('li')[5].innerHTML='S.L.C Board, Nobel Academy Higher Secondary School - <strong>77.88%</strong>';
@@ -25,10 +25,10 @@ document.getElementsByTagName('li')[12].innerHTML='Adequate knowledge on Microso
 document.getElementsByTagName('h3')[9].innerHTML='Experiences & Hobbies';
 document.getElementsByTagName('li')[13].innerHTML='Excel Programming (Macros and VBA Script) for analyzing reports and sending bulk mail integrated with Outlook.';
 
-document.getElementsByTagName('li')[14].innerHTML='IT officer in Central Media Pvt. Ltd. for a year.';
-document.getElementsByTagName('li')[15].innerHTML='Worked as Web developer and designer for Delta 9 Business Group Pvt. Ltd.for a year.';
+document.getElementsByTagName('li')[14].innerHTML='IT officer in Central Media Pvt. Ltd. for 1 year.';
+document.getElementsByTagName('li')[15].innerHTML='Worked as Web developer and designer for Delta 9 Business Group Pvt. Ltd.for 1 year.';
 document.getElementsByTagName('li')[16].innerHTML='Volunteer for a Raleigh International Nepal for around 12 weeks.';
 document.getElementsByTagName('li')[17].innerHTML='Worked as a Network Engineer for Perfect Active Solutions Pvt. Ltd.';
-document.getElementsByTagName('li')[18].innerHTML='Worked as a Trainee Assistant in Siddhartha Bank Limited.';
+document.getElementsByTagName('li')[18].innerHTML='Worked as a Trainee Assistant in Siddhartha Bank Limited. for 8 months';
 document.getElementsByTagName('li')[19].innerHTML='Travelling enthusiast.';
 document.getElementsByTagName('li')[20].innerHTML='Love playing cricket and football.';
