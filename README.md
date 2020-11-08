@@ -1,1 +1,1 @@
-This is a personal CV.
+porfolio based website.
